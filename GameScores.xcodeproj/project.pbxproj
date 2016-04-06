@@ -21,6 +21,7 @@
 		1D6681581C96FFE000F6B99B /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6681551C96FFE000F6B99B /* Score.swift */; };
 		1D66815B1C96FFE900F6B99B /* PlayerDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6681591C96FFE900F6B99B /* PlayerDetailsViewController.swift */; };
 		1D66815C1C96FFE900F6B99B /* PlayersListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D66815A1C96FFE900F6B99B /* PlayersListViewController.swift */; };
+		1DE950841CB4ECE6009299C8 /* NSAgora-IntroductionToRealm.pptx in Resources */ = {isa = PBXBuildFile; fileRef = 1DE950831CB4ECE6009299C8 /* NSAgora-IntroductionToRealm.pptx */; };
 		72FAE44B952145CA8CA52F03 /* Pods_GameScores.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB4B4400E6FBC57BFCF94EA2 /* Pods_GameScores.framework */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,7 @@
 		1D6681551C96FFE000F6B99B /* Score.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
 		1D6681591C96FFE900F6B99B /* PlayerDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDetailsViewController.swift; sourceTree = "<group>"; };
 		1D66815A1C96FFE900F6B99B /* PlayersListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayersListViewController.swift; sourceTree = "<group>"; };
+		1DE950831CB4ECE6009299C8 /* NSAgora-IntroductionToRealm.pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NSAgora-IntroductionToRealm.pptx"; sourceTree = "<group>"; };
 		A5766ECC2F283851DE73774E /* Pods-GameScores.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GameScores.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GameScores/Pods-GameScores.debug.xcconfig"; sourceTree = "<group>"; };
 		C538B444390006C0BA5B8796 /* Pods-GameScores.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GameScores.release.xcconfig"; path = "Pods/Target Support Files/Pods-GameScores/Pods-GameScores.release.xcconfig"; sourceTree = "<group>"; };
 		FB4B4400E6FBC57BFCF94EA2 /* Pods_GameScores.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GameScores.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,6 +63,7 @@
 		1D66812C1C96FF8F00F6B99B = {
 			isa = PBXGroup;
 			children = (
+				1DE950831CB4ECE6009299C8 /* NSAgora-IntroductionToRealm.pptx */,
 				1D6681371C96FF8F00F6B99B /* GameScores */,
 				1D6681361C96FF8F00F6B99B /* Products */,
 				EE149D4FF1EC24DB76F088A8 /* Pods */,
@@ -184,6 +187,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DE950841CB4ECE6009299C8 /* NSAgora-IntroductionToRealm.pptx in Resources */,
 				1D6681431C96FF8F00F6B99B /* LaunchScreen.storyboard in Resources */,
 				1D6681401C96FF8F00F6B99B /* Assets.xcassets in Resources */,
 				1D66813E1C96FF8F00F6B99B /* Main.storyboard in Resources */,
